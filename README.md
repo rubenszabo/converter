@@ -1,5 +1,15 @@
 # Váltó
 
+<p align="center">
+  <a href="../../releases/latest">
+    <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_Let%C3%B6lt%C3%A9s-Windowsra-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Letöltés Windowsra" height="60">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Kattints a gombra, majd a megnyíló oldalon az <b>Assets</b> résznél töltsd le a <code>.exe</code> telepítőt.</sub>
+</p>
+
 Asztali alkalmazás fájlok formátumok közötti konvertálására. Electron alapú, a médiafájlok feldolgozását beépített FFmpeg végzi, ezért használatához nincs szükség külön szoftver telepítésére.
 
 ![Verzió](https://img.shields.io/badge/verzi%C3%B3-2.0.0-blue)
